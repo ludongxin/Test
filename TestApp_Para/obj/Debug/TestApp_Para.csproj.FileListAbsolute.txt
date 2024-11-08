@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.Form1.resources
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\bin\Debug\TestApp_Para.exe.config
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\bin\Debug\TestApp_Para.exe
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\bin\Debug\TestApp_Para.pdb
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.exe
+C:\Users\Administrator\source\repos\TestApp_Para\TestApp_Para\obj\Debug\TestApp_Para.pdb
